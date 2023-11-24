@@ -29,9 +29,9 @@
 
 - 🌱 I’m currently learning **JPA hibernate,Microservices,SpringBoot**
 
-- ☁️ I've keen interest in backend development. So,I'm learning **JAVA SPRINGBOOT**
+- ☁️ I've keen interest in backend development, so i'm learning **JAVA SPRINGBOOT**
 
-- 💬 Ask me about **JAVA, POO, MQSQL**
+- 💬 Ask me about **JAVA, POO, MYSQL**
 
 - 📫 Feel free to reach me out **alfarollano@gmail.com**
 
