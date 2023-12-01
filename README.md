@@ -25,9 +25,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **JPA hibernate,Microservices,SpringBoot Projects**
+- 🔭 I’m currently working on **HibernateJPA,SpringDataJPA,SpringMVC,Microservices,API RESTful,SpringFrameWork Projects**
 
-- 🌱 I’m currently learning **JPA hibernate,Microservices,SpringBoot**
+- 🌱 I’m currently learning **HibernateJPA,SpringDataJPA,SpringMVC,Microservices,API RESTful,SpringFrameWork Projects**
 
 - ☁️ I've keen interest in backend development, so i'm learning **JAVA SPRINGBOOT**
 
