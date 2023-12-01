@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **HibernateJPA,SpringDataJPA,SpringMVC,Microservices,API RESTful,SpringFrameWork Projects**
 
-- ☁️ I've keen interest in backend development, so i'm learning **JAVA SPRINGBOOT**
+- ☁️ I've keen interest in backend development, so i'm learning **JAVA - APIs REST - SPRINGFRAMEWORK**
 
 - 💬 Ask me about **JAVA, POO, MYSQL**
 
